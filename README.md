@@ -1,2 +1,0 @@
-# elfaro
-periodico
